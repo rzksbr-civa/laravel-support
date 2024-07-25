@@ -1,9 +1,8 @@
 {
     "name": "webaune/laravel-support",
-    "description": "Common support helpers, contracts, and traits required by various packages. Validator functionality, and basic controller included out-of-the-box.",
+    "description": "Common support helpers, contracts, and traits required by various Webaune packages. Validator functionality, and basic controller included out-of-the-box.",
     "type": "library",
     "keywords": [
-        "webaune",
         "laravel",
         "contract",
         "validator",

@@ -1,6 +1,6 @@
-# Laravel Support
+# Webaune Support
 
-**Webaune common** support helpers, contracts, and traits required by various Webaune packages. Validator functionality, and basic controller included out-of-the-box.
+**Common** support helpers, contracts, and traits required by various Webaune packages. Validator functionality, and basic controller included out-of-the-box.
 
 > **Note:** this package is just a support package for other Webaune packages, which may not be useful on it's own, but contains some complementary generic functionality and also may not respect SemVer and break backward compatibility.
 
@@ -36,6 +36,25 @@ It was forked and merged from the awesome [felixkiss/uniquewith-validator](https
 ## Changelog
 
 Refer to the [Changelog](CHANGELOG.md) for a full history of the project.
+
+
+## Support
+
+The following support channels are available at your fingertips:
+
+
+## Contributing & Protocols
+
+Thank you for considering contributing to this project! The contribution guide can be found in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Bug reports, feature requests, and pull requests are very welcome.
+
+- [Versioning](CONTRIBUTING.md#versioning)
+- [Pull Requests](CONTRIBUTING.md#pull-requests)
+- [Coding Standards](CONTRIBUTING.md#coding-standards)
+- [Feature Requests](CONTRIBUTING.md#feature-requests)
+- [Git Flow](CONTRIBUTING.md#git-flow)
+
 
 ## Security Vulnerabilities
 
